@@ -1,8 +1,8 @@
 # Traveller
-This is a example repository for React-Native. Purpose of this project improve myself and learn new things.
+This is a example ui design with React-Native. Purpose of this project is improve myself and learn new things.
 
 # Used Libraries
-Only React-Native libraries were used. In addition, no other library was used.
+Only React-Native libraries were used. There no other libraries needed.
 
 # View
 ![alt text](https://github.com/alparslanyilmaaz/traveller/blob/master/ss/screen.gif)
