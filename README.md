@@ -13,3 +13,9 @@ Only React-Native libraries were used. In addition, no other library was used.
 - After cloning run `npm i` command
 
 - You should install React-Native earlier for executing this project.
+
+# Contact
+If you have any question or any improvements please contact me through mail.
+
+alparslanylmaz@gmail.com  
+www.alparslanylmaz.com
